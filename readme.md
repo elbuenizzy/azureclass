@@ -1,3 +1,3 @@
 # Vanilla JavaScript App
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+Este repositorio es utilizado para hacer una aplicación web HTML _muy_basica_ sin frameworks para front end
