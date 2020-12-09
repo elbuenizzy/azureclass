@@ -105,6 +105,8 @@ Add additional notes about how to deploy this on a live system.
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
+https://zealous-mud-097848110.azurestaticapps.net
+
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
