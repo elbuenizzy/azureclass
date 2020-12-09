@@ -32,81 +32,46 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+El proyecto desarrollado durante la clase fue hacerca de la pandemia del covid 19, se trata de una app/dashboard de los datos de una API ([covid19api](https://api.covid19api.com)), la cual muestra los casos totales, muertes y recuperados de todo el mundo, México y Morelos, MX.
+
+Los datos de  la API son aproximados, miestras que los de mexico y morelos son datos desactualizados ya que son cargados desde un archivo json (csv -> json).
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Todos los paquetes utilizados se encuentran el el archivo `package.json`
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Instalación de los paquetes necesarios (nodejs y npm deven estar instalados).
 
 ```
-Give examples
+sudo apt install nodejs
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Teniendo nodejs y npm clonaremos el repositorio y instalaremos sus dependencias.
 
 ```
-Give the example
+git clone _url_/azureclass
+cd azureclass
+npm i
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+La App puede ser usada en cualquier SO.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+Url: https://polite-coast-077d69e10.azurestaticapps.net/
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [ReactJs](https://reactjs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [@sinn6842](https://github.com/sinn6842) - Idea & Initial work
