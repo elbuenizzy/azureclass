@@ -1,3 +1,9 @@
+<img width=200px height=200px src="azurebeg.png" alt="Link"></a>
+<div align="center">
+<p>https://kind-forest-09a728110.azurestaticapps.net/</p>
+</div>
+
+
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://githubcampus.expert/assets/images/ce-flag.png" alt="Project logo"></a>
