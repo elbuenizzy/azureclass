@@ -1,6 +1,6 @@
 <div align="center">
 <img width=500px height=300px src="azurebeg.png" alt="Link"></a>
-<p>https://kind-forest-09a728110.azurestaticapps.net/</p>
+<h2>https://kind-forest-09a728110.azurestaticapps.net/</h2>
 </div>
 
 
