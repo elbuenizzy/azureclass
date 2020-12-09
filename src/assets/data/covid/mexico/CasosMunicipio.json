@@ -1,0 +1,170 @@
+[
+  {
+    "edo": "17",
+    "des_edo": "10",
+    "confirmados": "1",
+    "sospechosos": "0",
+    "negativos": "2",
+    "defunciones": "0"
+  },
+  {
+    "edo": "17",
+    "des_edo": "11",
+    "confirmados": "2",
+    "sospechosos": "0",
+    "negativos": "9",
+    "defunciones": "1"
+  },
+  {
+    "edo": "17",
+    "des_edo": "12",
+    "confirmados": "7",
+    "sospechosos": "0",
+    "negativos": "50",
+    "defunciones": "2"
+  },
+  {
+    "edo": "17",
+    "des_edo": "13",
+    "confirmados": "14",
+    "sospechosos": "0",
+    "negativos": "71",
+    "defunciones": "3"
+  },
+  {
+    "edo": "17",
+    "des_edo": "14",
+    "confirmados": "30",
+    "sospechosos": "1",
+    "negativos": "110",
+    "defunciones": "6"
+  },
+  {
+    "edo": "17",
+    "des_edo": "15",
+    "confirmados": "41",
+    "sospechosos": "1",
+    "negativos": "104",
+    "defunciones": "12"
+  },
+  {
+    "edo": "17",
+    "des_edo": "16",
+    "confirmados": "122",
+    "sospechosos": "2",
+    "negativos": "110",
+    "defunciones": "45"
+  },
+  {
+    "edo": "17",
+    "des_edo": "17",
+    "confirmados": "226",
+    "sospechosos": "4",
+    "negativos": "94",
+    "defunciones": "93"
+  },
+  {
+    "edo": "17",
+    "des_edo": "18",
+    "confirmados": "290",
+    "sospechosos": "1",
+    "negativos": "106",
+    "defunciones": "96"
+  },
+  {
+    "edo": "17",
+    "des_edo": "19",
+    "confirmados": "318",
+    "sospechosos": "3",
+    "negativos": "196",
+    "defunciones": "108"
+  },
+  {
+    "edo": "17",
+    "des_edo": "20",
+    "confirmados": "283",
+    "sospechosos": "20",
+    "negativos": "235",
+    "defunciones": "77"
+  },
+  {
+    "edo": "17",
+    "des_edo": "21",
+    "confirmados": "334",
+    "sospechosos": "32",
+    "negativos": "244",
+    "defunciones": "65"
+  },
+  {
+    "edo": "17",
+    "des_edo": "22",
+    "confirmados": "334",
+    "sospechosos": "10",
+    "negativos": "204",
+    "defunciones": "58"
+  },
+  {
+    "edo": "17",
+    "des_edo": "23",
+    "confirmados": "354",
+    "sospechosos": "13",
+    "negativos": "258",
+    "defunciones": "63"
+  },
+  {
+    "edo": "17",
+    "des_edo": "24",
+    "confirmados": "354",
+    "sospechosos": "24",
+    "negativos": "338",
+    "defunciones": "64"
+  },
+  {
+    "edo": "17",
+    "des_edo": "25",
+    "confirmados": "279",
+    "sospechosos": "25",
+    "negativos": "321",
+    "defunciones": "28"
+  },
+  {
+    "edo": "17",
+    "des_edo": "26",
+    "confirmados": "206",
+    "sospechosos": "17",
+    "negativos": "297",
+    "defunciones": "34"
+  },
+  {
+    "edo": "17",
+    "des_edo": "27",
+    "confirmados": "183",
+    "sospechosos": "16",
+    "negativos": "272",
+    "defunciones": "20"
+  },
+  {
+    "edo": "17",
+    "des_edo": "28",
+    "confirmados": "245",
+    "sospechosos": "12",
+    "negativos": "295",
+    "defunciones": "33"
+  },
+  {
+    "edo": "17",
+    "des_edo": "29",
+    "confirmados": "228",
+    "sospechosos": "18",
+    "negativos": "318",
+    "defunciones": "25"
+  },
+  {
+    "edo": "17",
+    "des_edo": "30",
+    "confirmados": "216",
+    "sospechosos": "36",
+    "negativos": "229",
+    "defunciones": "9"
+  }
+]

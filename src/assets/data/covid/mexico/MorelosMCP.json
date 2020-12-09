@@ -1,0 +1,3152 @@
+[
+  {
+    "edo": "Cuernavaca",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 12,
+    "valor": 1
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 13,
+    "valor": 2
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 14,
+    "valor": 3
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 15,
+    "valor": 3
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 16,
+    "valor": 13
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 17,
+    "valor": 24
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 18,
+    "valor": 22
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 19,
+    "valor": 21
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 20,
+    "valor": 16
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 21,
+    "valor": 20
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 22,
+    "valor": 18
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 23,
+    "valor": 20
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 24,
+    "valor": 20
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 25,
+    "valor": 17
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 26,
+    "valor": 11
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 27,
+    "valor": 12
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 28,
+    "valor": 13
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 29,
+    "valor": 12
+  },
+  {
+    "edo": "Cuernavaca",
+    "semana": 30,
+    "valor": 11
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 14,
+    "valor": 1
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 15,
+    "valor": 2
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 16,
+    "valor": 4
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 17,
+    "valor": 7
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 18,
+    "valor": 9
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 19,
+    "valor": 11
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 20,
+    "valor": 10
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 21,
+    "valor": 16
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 22,
+    "valor": 14
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 23,
+    "valor": 21
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 24,
+    "valor": 17
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 25,
+    "valor": 12
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 26,
+    "valor": 9
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 27,
+    "valor": 4
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 28,
+    "valor": 9
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 29,
+    "valor": 8
+  },
+  {
+    "edo": "Jiutepec",
+    "semana": 30,
+    "valor": 15
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 15,
+    "valor": 2
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 16,
+    "valor": 5
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 17,
+    "valor": 12
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 18,
+    "valor": 23
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 19,
+    "valor": 20
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 20,
+    "valor": 30
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 21,
+    "valor": 26
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 22,
+    "valor": 28
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 23,
+    "valor": 28
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 24,
+    "valor": 23
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 25,
+    "valor": 27
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 26,
+    "valor": 21
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 27,
+    "valor": 18
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 28,
+    "valor": 24
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 29,
+    "valor": 26
+  },
+  {
+    "edo": "Cuautla",
+    "semana": 30,
+    "valor": 21
+  },
+  {
+    "edo": "Temixco",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Temixco",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Temixco",
+    "semana": 12,
+    "valor": 1
+  },
+  {
+    "edo": "Temixco",
+    "semana": 13,
+    "valor": 1
+  },
+  {
+    "edo": "Temixco",
+    "semana": 14,
+    "valor": 5
+  },
+  {
+    "edo": "Temixco",
+    "semana": 15,
+    "valor": 2
+  },
+  {
+    "edo": "Temixco",
+    "semana": 16,
+    "valor": 5
+  },
+  {
+    "edo": "Temixco",
+    "semana": 17,
+    "valor": 8
+  },
+  {
+    "edo": "Temixco",
+    "semana": 18,
+    "valor": 9
+  },
+  {
+    "edo": "Temixco",
+    "semana": 19,
+    "valor": 11
+  },
+  {
+    "edo": "Temixco",
+    "semana": 20,
+    "valor": 6
+  },
+  {
+    "edo": "Temixco",
+    "semana": 21,
+    "valor": 13
+  },
+  {
+    "edo": "Temixco",
+    "semana": 22,
+    "valor": 8
+  },
+  {
+    "edo": "Temixco",
+    "semana": 23,
+    "valor": 12
+  },
+  {
+    "edo": "Temixco",
+    "semana": 24,
+    "valor": 14
+  },
+  {
+    "edo": "Temixco",
+    "semana": 25,
+    "valor": 8
+  },
+  {
+    "edo": "Temixco",
+    "semana": 26,
+    "valor": 4
+  },
+  {
+    "edo": "Temixco",
+    "semana": 27,
+    "valor": 7
+  },
+  {
+    "edo": "Temixco",
+    "semana": 28,
+    "valor": 6
+  },
+  {
+    "edo": "Temixco",
+    "semana": 29,
+    "valor": 7
+  },
+  {
+    "edo": "Temixco",
+    "semana": 30,
+    "valor": 5
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 11,
+    "valor": 1
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 14,
+    "valor": 2
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 15,
+    "valor": 1
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 16,
+    "valor": 1
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 17,
+    "valor": 5
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 18,
+    "valor": 2
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 19,
+    "valor": 9
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 20,
+    "valor": 9
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 21,
+    "valor": 8
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 22,
+    "valor": 9
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 23,
+    "valor": 8
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 24,
+    "valor": 7
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 25,
+    "valor": 9
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 26,
+    "valor": 8
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 27,
+    "valor": 7
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 28,
+    "valor": 11
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 29,
+    "valor": 13
+  },
+  {
+    "edo": "Yautepec",
+    "semana": 30,
+    "valor": 10
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 13,
+    "valor": 1
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 14,
+    "valor": 1
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 15,
+    "valor": 5
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 16,
+    "valor": 4
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 17,
+    "valor": 5
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 18,
+    "valor": 6
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 19,
+    "valor": 8
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 20,
+    "valor": 8
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 21,
+    "valor": 13
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 22,
+    "valor": 12
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 23,
+    "valor": 12
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 24,
+    "valor": 12
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 25,
+    "valor": 7
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 26,
+    "valor": 4
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 27,
+    "valor": 8
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 28,
+    "valor": 5
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 29,
+    "valor": 4
+  },
+  {
+    "edo": "Emiliano Zapata",
+    "semana": 30,
+    "valor": 7
+  },
+  {
+    "edo": "Ayala",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Ayala",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Ayala",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Ayala",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Ayala",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Ayala",
+    "semana": 15,
+    "valor": 2
+  },
+  {
+    "edo": "Ayala",
+    "semana": 16,
+    "valor": 3
+  },
+  {
+    "edo": "Ayala",
+    "semana": 17,
+    "valor": 4
+  },
+  {
+    "edo": "Ayala",
+    "semana": 18,
+    "valor": 10
+  },
+  {
+    "edo": "Ayala",
+    "semana": 19,
+    "valor": 5
+  },
+  {
+    "edo": "Ayala",
+    "semana": 20,
+    "valor": 7
+  },
+  {
+    "edo": "Ayala",
+    "semana": 21,
+    "valor": 19
+  },
+  {
+    "edo": "Ayala",
+    "semana": 22,
+    "valor": 21
+  },
+  {
+    "edo": "Ayala",
+    "semana": 23,
+    "valor": 21
+  },
+  {
+    "edo": "Ayala",
+    "semana": 24,
+    "valor": 21
+  },
+  {
+    "edo": "Ayala",
+    "semana": 25,
+    "valor": 12
+  },
+  {
+    "edo": "Ayala",
+    "semana": 26,
+    "valor": 15
+  },
+  {
+    "edo": "Ayala",
+    "semana": 27,
+    "valor": 16
+  },
+  {
+    "edo": "Ayala",
+    "semana": 28,
+    "valor": 18
+  },
+  {
+    "edo": "Ayala",
+    "semana": 29,
+    "valor": 15
+  },
+  {
+    "edo": "Ayala",
+    "semana": 30,
+    "valor": 12
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 14,
+    "valor": 1
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 15,
+    "valor": 1
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 16,
+    "valor": 1
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 17,
+    "valor": 8
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 18,
+    "valor": 20
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 19,
+    "valor": 20
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 20,
+    "valor": 13
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 21,
+    "valor": 14
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 22,
+    "valor": 14
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 23,
+    "valor": 20
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 24,
+    "valor": 17
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 25,
+    "valor": 5
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 27,
+    "valor": 7
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 28,
+    "valor": 7
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 29,
+    "valor": 6
+  },
+  {
+    "edo": "Xochitepec",
+    "semana": 30,
+    "valor": 3
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 14,
+    "valor": 1
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 15,
+    "valor": 1
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 16,
+    "valor": 8
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 17,
+    "valor": 10
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 18,
+    "valor": 23
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 19,
+    "valor": 38
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 20,
+    "valor": 38
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 21,
+    "valor": 26
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 22,
+    "valor": 17
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 23,
+    "valor": 14
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 24,
+    "valor": 10
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 25,
+    "valor": 14
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 26,
+    "valor": 6
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 27,
+    "valor": 1
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 28,
+    "valor": 6
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 29,
+    "valor": 6
+  },
+  {
+    "edo": "Puente de Ixtla",
+    "semana": 30,
+    "valor": 5
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 14,
+    "valor": 2
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 16,
+    "valor": 8
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 17,
+    "valor": 16
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 18,
+    "valor": 46
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 19,
+    "valor": 34
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 20,
+    "valor": 29
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 21,
+    "valor": 33
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 22,
+    "valor": 26
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 23,
+    "valor": 24
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 24,
+    "valor": 15
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 25,
+    "valor": 16
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 26,
+    "valor": 7
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 27,
+    "valor": 2
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 28,
+    "valor": 8
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 29,
+    "valor": 7
+  },
+  {
+    "edo": "Jojutla",
+    "semana": 30,
+    "valor": 2
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 15,
+    "valor": 2
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 16,
+    "valor": 2
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 17,
+    "valor": 7
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 18,
+    "valor": 7
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 19,
+    "valor": 16
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 20,
+    "valor": 2
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 21,
+    "valor": 7
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 22,
+    "valor": 17
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 23,
+    "valor": 16
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 24,
+    "valor": 26
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 25,
+    "valor": 12
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 27,
+    "valor": 4
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 28,
+    "valor": 7
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 29,
+    "valor": 12
+  },
+  {
+    "edo": "Yecapixtla",
+    "semana": 30,
+    "valor": 12
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 14,
+    "valor": 2
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 16,
+    "valor": 5
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 17,
+    "valor": 14
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 18,
+    "valor": 9
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 19,
+    "valor": 20
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 20,
+    "valor": 17
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 21,
+    "valor": 12
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 22,
+    "valor": 25
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 23,
+    "valor": 13
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 24,
+    "valor": 19
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 25,
+    "valor": 4
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 26,
+    "valor": 11
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 27,
+    "valor": 2
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 28,
+    "valor": 16
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 29,
+    "valor": 11
+  },
+  {
+    "edo": "Tlaltizapán de Zapata",
+    "semana": 30,
+    "valor": 6
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 13,
+    "valor": 2
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 16,
+    "valor": 4
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 17,
+    "valor": 6
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 18,
+    "valor": 0
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 19,
+    "valor": 6
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 20,
+    "valor": 10
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 21,
+    "valor": 11
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 22,
+    "valor": 8
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 23,
+    "valor": 14
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 24,
+    "valor": 15
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 25,
+    "valor": 9
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 26,
+    "valor": 2
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 27,
+    "valor": 4
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 28,
+    "valor": 6
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 29,
+    "valor": 9
+  },
+  {
+    "edo": "Tepoztlán",
+    "semana": 30,
+    "valor": 5
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 16,
+    "valor": 10
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 17,
+    "valor": 13
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 18,
+    "valor": 23
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 19,
+    "valor": 26
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 20,
+    "valor": 59
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 21,
+    "valor": 49
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 22,
+    "valor": 56
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 23,
+    "valor": 40
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 24,
+    "valor": 58
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 25,
+    "valor": 20
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 26,
+    "valor": 18
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 27,
+    "valor": 11
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 28,
+    "valor": 18
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 29,
+    "valor": 13
+  },
+  {
+    "edo": "Zacatepec",
+    "semana": 30,
+    "valor": 13
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 17,
+    "valor": 0
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 18,
+    "valor": 3
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 19,
+    "valor": 3
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 20,
+    "valor": 5
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 21,
+    "valor": 8
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 22,
+    "valor": 10
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 23,
+    "valor": 16
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 24,
+    "valor": 46
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 25,
+    "valor": 35
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 26,
+    "valor": 49
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 27,
+    "valor": 34
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 28,
+    "valor": 27
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 29,
+    "valor": 29
+  },
+  {
+    "edo": "Axochiapan",
+    "semana": 30,
+    "valor": 20
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 13,
+    "valor": 6
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 16,
+    "valor": 3
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 17,
+    "valor": 8
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 18,
+    "valor": 6
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 19,
+    "valor": 28
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 20,
+    "valor": 3
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 21,
+    "valor": 13
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 22,
+    "valor": 17
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 23,
+    "valor": 19
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 24,
+    "valor": 25
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 25,
+    "valor": 8
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 26,
+    "valor": 0
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 27,
+    "valor": 8
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 28,
+    "valor": 6
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 29,
+    "valor": 15
+  },
+  {
+    "edo": "Tlaquiltenango",
+    "semana": 30,
+    "valor": 6
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 15,
+    "valor": 3
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 16,
+    "valor": 3
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 17,
+    "valor": 17
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 18,
+    "valor": 21
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 19,
+    "valor": 28
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 20,
+    "valor": 10
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 21,
+    "valor": 12
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 22,
+    "valor": 24
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 23,
+    "valor": 9
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 24,
+    "valor": 17
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 25,
+    "valor": 19
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 26,
+    "valor": 10
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 27,
+    "valor": 3
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 28,
+    "valor": 10
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 29,
+    "valor": 7
+  },
+  {
+    "edo": "Tepalcingo",
+    "semana": 30,
+    "valor": 14
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 16,
+    "valor": 7
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 17,
+    "valor": 7
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 18,
+    "valor": 18
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 19,
+    "valor": 11
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 20,
+    "valor": 11
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 21,
+    "valor": 4
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 22,
+    "valor": 4
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 23,
+    "valor": 7
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 24,
+    "valor": 4
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 25,
+    "valor": 4
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 26,
+    "valor": 4
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 27,
+    "valor": 7
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 28,
+    "valor": 7
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Miacatlán",
+    "semana": 30,
+    "valor": 2
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 13,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 14,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 15,
+    "valor": 8
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 16,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 17,
+    "valor": 0
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 18,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 19,
+    "valor": 8
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 20,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 21,
+    "valor": 17
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 22,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 23,
+    "valor": 12
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 24,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 25,
+    "valor": 25
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 26,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 27,
+    "valor": 0
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 28,
+    "valor": 8
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 29,
+    "valor": 4
+  },
+  {
+    "edo": "Atlatlahucan",
+    "semana": 30,
+    "valor": 4
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 15,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 16,
+    "valor": 14
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 17,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 18,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 19,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 20,
+    "valor": 14
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 21,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 22,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 23,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 24,
+    "valor": 14
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 25,
+    "valor": 29
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 27,
+    "valor": 9
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 28,
+    "valor": 0
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 29,
+    "valor": 5
+  },
+  {
+    "edo": "Tetela del Volcán",
+    "semana": 30,
+    "valor": 14
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 13,
+    "valor": 5
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 14,
+    "valor": 5
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 17,
+    "valor": 10
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 18,
+    "valor": 20
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 19,
+    "valor": 10
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 20,
+    "valor": 10
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 21,
+    "valor": 13
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 22,
+    "valor": 10
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 23,
+    "valor": 5
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 24,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 25,
+    "valor": 10
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 27,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 28,
+    "valor": 5
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Huitzilac",
+    "semana": 30,
+    "valor": 20
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 15,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 16,
+    "valor": 15
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 17,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 18,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 19,
+    "valor": 5
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 20,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 21,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 22,
+    "valor": 5
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 23,
+    "valor": 5
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 24,
+    "valor": 15
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 25,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 26,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 27,
+    "valor": 0
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 28,
+    "valor": 10
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 29,
+    "valor": 15
+  },
+  {
+    "edo": "Ocuituco",
+    "semana": 30,
+    "valor": 5
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 17,
+    "valor": 10
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 18,
+    "valor": 16
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 19,
+    "valor": 10
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 20,
+    "valor": 5
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 21,
+    "valor": 5
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 22,
+    "valor": 16
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 23,
+    "valor": 10
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 24,
+    "valor": 26
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 25,
+    "valor": 26
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 26,
+    "valor": 47
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 27,
+    "valor": 54
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 28,
+    "valor": 52
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 29,
+    "valor": 52
+  },
+  {
+    "edo": "Tlayacapan",
+    "semana": 30,
+    "valor": 42
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 16,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 17,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 18,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 19,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 21,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 22,
+    "valor": 11
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 23,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 24,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 25,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 27,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 28,
+    "valor": 11
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 29,
+    "valor": 5
+  },
+  {
+    "edo": "Amacuzac",
+    "semana": 30,
+    "valor": 3
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 17,
+    "valor": 5
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 18,
+    "valor": 5
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 19,
+    "valor": 5
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 21,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 22,
+    "valor": 9
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 23,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 24,
+    "valor": 11
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 25,
+    "valor": 22
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 26,
+    "valor": 5
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 27,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 28,
+    "valor": 0
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 29,
+    "valor": 5
+  },
+  {
+    "edo": "Jantetelco",
+    "semana": 30,
+    "valor": 5
+  },
+  {
+    "edo": "Temoac",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 17,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 18,
+    "valor": 6
+  },
+  {
+    "edo": "Temoac",
+    "semana": 19,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 21,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 22,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 23,
+    "valor": 12
+  },
+  {
+    "edo": "Temoac",
+    "semana": 24,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 25,
+    "valor": 17
+  },
+  {
+    "edo": "Temoac",
+    "semana": 26,
+    "valor": 12
+  },
+  {
+    "edo": "Temoac",
+    "semana": 27,
+    "valor": 6
+  },
+  {
+    "edo": "Temoac",
+    "semana": 28,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Temoac",
+    "semana": 30,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 17,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 18,
+    "valor": 6
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 19,
+    "valor": 6
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 20,
+    "valor": 6
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 21,
+    "valor": 0
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 22,
+    "valor": 18
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 23,
+    "valor": 15
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 24,
+    "valor": 9
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 25,
+    "valor": 21
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 26,
+    "valor": 20
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 27,
+    "valor": 12
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 28,
+    "valor": 12
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 29,
+    "valor": 8
+  },
+  {
+    "edo": "Jonacatepec de Leandro Valle",
+    "semana": 30,
+    "valor": 18
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 17,
+    "valor": 8
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 18,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 19,
+    "valor": 16
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 21,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 22,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 23,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 24,
+    "valor": 8
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 25,
+    "valor": 8
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 26,
+    "valor": 8
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 27,
+    "valor": 8
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 28,
+    "valor": 38
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Totolapan",
+    "semana": 30,
+    "valor": 35
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 15,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 16,
+    "valor": 9
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 17,
+    "valor": 9
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 18,
+    "valor": 9
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 19,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 21,
+    "valor": 19
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 22,
+    "valor": 9
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 23,
+    "valor": 19
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 24,
+    "valor": 9
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 25,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 26,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 27,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 28,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Mazatepec",
+    "semana": 30,
+    "valor": 37
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 10,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 11,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 12,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 13,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 14,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 15,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 16,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 17,
+    "valor": 19
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 18,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 19,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 20,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 21,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 22,
+    "valor": 19
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 23,
+    "valor": 19
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 24,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 25,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 26,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 27,
+    "valor": 10
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 28,
+    "valor": 23
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 29,
+    "valor": 0
+  },
+  {
+    "edo": "Coatlán del Río",
+    "semana": 30,
+    "valor": 29
+  }
+]
