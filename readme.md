@@ -15,9 +15,9 @@
 ---
 
 <p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
-    <br> 
+    <br>
 </p>
-
+## Paul Fernando Trujillo
 ## 📝 Table of Contents
 
 - [About](#about)
