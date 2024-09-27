@@ -1,21 +1,13 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
+#top {
+  height: 150px;
+  background-color: brown;
 }
-
-html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
-  background-color: #fff;
+.contenedor{
+  width: 978px;
+  margin: 0 auto;
 }
-
-main {
-  margin: auto;
-  width: 50%;
-  padding: 20px;
-}
-
-main > h1 {
-  text-align: center;
-  font-size: 3.5em;
+#logo {
+  background-image: url(azureclass\logo_muz2020.png);
+  width: 458px;
+  height: 104px;
 }
